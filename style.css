@@ -1,11 +1,11 @@
 *{
-    margin: 0%;
-    padding: 0%;
+    padding: 0;
+    margin: 0;
     box-sizing: border-box;
-    color: white;
+    color: #ffffff;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
-/* navbar area started  */
 .dark{
     background-color: black;
 }
@@ -90,9 +90,7 @@
     }
 }
 
-/* navbar area ended  */
 
-/* first image area started */
 .first-img{
     margin-top: 10px;
 }
@@ -108,9 +106,7 @@
     }
  }
  
-/* first image area ended*/
 
-/* welcome to salt and pepper area started */
 
 .main-welcome-area{
     text-align: center;
@@ -223,9 +219,7 @@
    
 }
 
-/* welcome to salt and pepper area ended */
 
-/* Restaurant Franchises area started  */
 
 .gray-sec-1{
     
@@ -281,7 +275,7 @@
     height: 90%;
 }
 
-/* 2nd sec  */
+
 
 .islamabad-main-sec-2{
     display: flex;
@@ -397,10 +391,7 @@
     }
 }
 
-/* Restaurant Franchises area ended */
 
-
-/* Salt'n Pepper Express Franchises area started  */
 
 
 .head-sec-2{
@@ -591,13 +582,9 @@
 }
 
 
-/* Salt'n Pepper Express Franchises area ended  */
-
-
-/* Salt'n Pepper Village Franchise  started  */
 
 .gray-sec-2{
-    background-color: rgb(27, 27, 27);
+    
     margin-top: 50px;
     padding-bottom: 50px;
 }
@@ -837,7 +824,40 @@
     color: brown;
     
 }
+.text-grey-2
+{
+     color: gray;
+}
 
-/* Salt'n Pepper Express Franchises (Opening Soon) ended  */
+.text-grey{
+    margin-top: 20px;
+}
+
+
+
+.d-flex{
+    display: flex;
+}
+.justify-center{
+    justify-content: center;
+}
+.justify-between{
+    justify-content: space-between;
+}
+.justify-around{
+    justify-content: space-around;
+}
+.align-around{
+    align-items: space-around;
+}
+
+
+.center{
+    text-align: center;
+}
+.rounded{
+    border-radius: 30px;
+}
+ 
 
 
